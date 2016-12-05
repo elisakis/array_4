@@ -1,4 +1,3 @@
-//Задание 4 с массивами
 #include <iostream>
 
 using namespace std;
